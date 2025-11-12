@@ -1,5 +1,5 @@
 Conversor de Moedas - Java Console App
-![alt text](https://img.shields.io/badge/status-concluído-green)
+
 Um conversor de moedas interativo via console, desenvolvido em Java como um desafio para aplicar os conceitos fundamentais da Programação Orientada a Objetos (POO). A aplicação consome a API ExchangeRate-API para obter taxas de câmbio em tempo real.
 📋 Funcionalidades
 Conversão em Tempo Real: Utiliza taxas de câmbio atualizadas para fornecer valores precisos.
@@ -46,5 +46,6 @@ Clique com o botão direito do mouse sobre a classe e selecione Run 'Main.main()
 O menu interativo será exibido no console da sua IDE. Siga as instruções para realizar as conversões.
 ✒️ Autor
 Sergio de Lima - Desenvolvedor do projeto - SergiodLima
+
 
 
