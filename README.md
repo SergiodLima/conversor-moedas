@@ -30,7 +30,7 @@ Instalação e Configuração
 Clone o repositório:
 code
 Bash
-git clone https://github.com/seu-usuario/conversor-moedas.git
+git clone git@github.com:SergiodLima/conversor-moedas.git
 Abra o projeto na sua IDE:
 No IntelliJ IDEA, vá em File > Open... e selecione o arquivo pom.xml do projeto. A IDE irá carregar o projeto e baixar as dependências do Maven automaticamente.
 Adicione sua Chave de API:
@@ -45,5 +45,6 @@ Encontre a classe Main.java no pacote com.example.conversor.
 Clique com o botão direito do mouse sobre a classe e selecione Run 'Main.main()'.
 O menu interativo será exibido no console da sua IDE. Siga as instruções para realizar as conversões.
 ✒️ Autor
-Sergio de Lima - Desenvolvedor do projeto - seu-usuario
+Sergio de Lima - Desenvolvedor do projeto - SergiodLima
+
 
